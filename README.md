@@ -13,7 +13,7 @@ Fun Facts:
 - 💬 Chatting with family and friends is my all time favourite activity
 
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Akshita07&label=Total%20Visitors&countColor=%2337d67a) | ![Visitors](https://api.visitorbadge.io/api/daily?path=Akshita07&label=Daily%20Visitors&countColor=%232ccce4)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Akshita07&label=Total%20Visitors&countColor=%2337d67a)  ![Visitors](https://api.visitorbadge.io/api/daily?path=Akshita07&label=Daily%20Visitors&countColor=%232ccce4)
 <!--
 **Akshita07/Akshita07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
