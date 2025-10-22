@@ -1,8 +1,6 @@
 ## Hello! 👋
 
-I am a software engineer with a bachelor's and master's in Computer Science & Engineering 🎓 from IIIT-Hyderabad, India.
-
-Previously, I have experience in Quantum Computing ⚛️, e-Commerce 🌐 and Bio-medical Research 🦾. Currently, I am looking for a SWE role and at the same time, gaining deeper expertise in Quantum Computing by contributing to various open-source libraries and taking up online coursework in the field.
+I am a software engineer with a bachelor's and master's in Computer Science & Engineering 🎓 from IIIT-Hyderabad, India. Previously, I have experience in Quantum Computing ⚛️, e-Commerce 🌐 and Bio-medical Research 🦾. Currently, I am looking for a SWE role.
 
 Fun Facts:
 - 🥾 I like going on treks
